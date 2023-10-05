@@ -1,0 +1,11 @@
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.vbprojAssemblyReference.cache
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.Resources.resources
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.vbproj.GenerateResource.cache
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.vbproj.CoreCompileInputs.cache
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\bin\Debug\TestSafeNet.exe.config
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\bin\Debug\TestSafeNet.exe
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\bin\Debug\TestSafeNet.pdb
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\bin\Debug\TestSafeNet.xml
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.exe
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.xml
+C:\Users\Dominick\Downloads\TestSafeNet\TestSafeNet\obj\Debug\TestSafeNet.pdb
